@@ -18,3 +18,5 @@ public class Weapon extends Item {
         System.out.println(name + " (" + attack + "): " + price + " gold");
     }
 }
+
+//skibidi toilet
