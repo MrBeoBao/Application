@@ -18,4 +18,5 @@ public class Armor extends Item {
         System.out.println(name + " (" + defense + "): " + price + " gold");
     }
 }
+//1
 
