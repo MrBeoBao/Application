@@ -44,8 +44,13 @@ public class Player extends Character{
         }
     }
 
+
+
+
+        
     if (bestWeapon != null) {
         this.weapon = bestWeapon;
     }
 }
 }
+//dấdfasdfaasdfas
